@@ -84,3 +84,7 @@ Mailchimp::addUpdateMember('listid', $member);
 - To v3.0:
     - Exceptions are now thrown for all errors, use try/catch where necessary
     - Double-opt-in is now the default, update `Mailchimp::subscribe()` as required
+
+
+### Original Autor
+- https://github.com/nztim/mailchimp
