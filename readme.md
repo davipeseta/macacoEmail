@@ -86,5 +86,5 @@ Mailchimp::addUpdateMember('listid', $member);
     - Double-opt-in is now the default, update `Mailchimp::subscribe()` as required
 
 
-### Original Autor
+### Original Author
 - https://github.com/nztim/mailchimp
